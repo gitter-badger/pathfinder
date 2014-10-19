@@ -11,7 +11,6 @@ The Add-on Pathfinder is the collection of Jetpack modules made to be used with 
 * UserScripts
 * XUL Help
 * ZIP Utilities
-* Content policies
 * Content Permissions
 * Awesomebar
 * Modifying Request Headers
