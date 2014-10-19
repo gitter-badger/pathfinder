@@ -7,7 +7,6 @@ The Add-on Pathfinder is the collection of Jetpack modules made to be used with 
 
 * Toolbar buttons
 * Downloads
-* UserStyles
 * UserScripts
 * XUL Help
 * ZIP Utilities
